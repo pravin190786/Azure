@@ -1,4 +1,3 @@
-1. Azure Compute 
-  Virtual Machine
-  App service
-  Functions (Serverless configurations)/ backgroudtask / upload(images/videos)
+1  Virtual Machine
+2  App service (Web application deployment)
+3  Functions (Serverless configurations)/ backgroudtask / upload(images/videos)
