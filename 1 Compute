@@ -1,3 +1,10 @@
 1  Virtual Machine
+   launch a VM with some predefined OS (Win,Ubuntu, RHEL etc)
+   
 2  App service (Web application deployment)
-3  Functions (Serverless configurations)/ backgroudtask / upload(images/videos)
+   This service is used for quick web app deployment
+   
+3  Functions:: 
+    It is also called as serverless computing
+    It can be used for backgroudtask application ex report generation 
+    The application like upload(images/videos) and perform variuos task like compress a file
